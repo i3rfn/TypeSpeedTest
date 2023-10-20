@@ -1,1 +1,1 @@
-# TypeSpeedTest
+# TypeSpeedTest miniProject
